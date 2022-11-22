@@ -6,6 +6,7 @@ I'm Giovanni, a data analyst from Brazil 🇧🇷.
 ✨ About Me in 30 Secs 
 - 👨‍🔬 I have Bachelor's Degree in Chemistry
 - 📊 Transition to data since January 2022
+- 🔭 Science and Technology enthusiast
 <br>
 
 📚 Projects & Guides 📚
