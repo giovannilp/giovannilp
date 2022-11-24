@@ -28,7 +28,7 @@ I'm Giovanni, a data analyst from Brazil 🇧🇷.
 <br>
 
 🙌🏻 Connect with Me
-LinkedIn
+[LinkedIn](linkedin.com/in/giovanni-lisboa-39a27a258)
 
 
 <!--
