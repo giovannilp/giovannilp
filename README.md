@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Giovanni, a data analyst from Brazil 🇧🇷.
+I'm Giovanni, a programming student from Brazil 🇧🇷.
 <br>
 
 ✨ About Me in 30 Secs 
 - 👨‍🔬 I have a Bachelor's Degree in Chemistry
-- 📊 Studying fullStack development and data since
+- 📊 Studying FullStack development and data since
 - 🔭 Science and Technology enthusiast
 <br>
 
