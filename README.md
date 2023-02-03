@@ -5,12 +5,12 @@ I'm Giovanni, a data analyst from Brazil 🇧🇷.
 
 ✨ About Me in 30 Secs 
 - 👨‍🔬 I have a Bachelor's Degree in Chemistry
-- 📊 Transition to data since January 2022
+- 📊 Studying fullStack development and data since
 - 🔭 Science and Technology enthusiast
 <br>
 
 📚 Projects & Guides 📚
-- For my portfolio guide, click [HERE](https://github.com/giovannilp/Portfolio-Guide)
+- For my Data science portfolio guide, click [HERE](https://github.com/giovannilp/Portfolio-Guide)
 <br>
 
 💡 Core Competencies 💡
@@ -19,10 +19,12 @@ I'm Giovanni, a data analyst from Brazil 🇧🇷.
 <br>
 
 ⚡️ Currently ⚡️
+- Learning HTML, CSS and JS
 - Brushing up on data cleaning and wrangling skills using Python
 - Learning database administration
 - Learning Power BI
 
+- Course: Front-End at Awari
 - Course: Data Analysis and Data Science at Awari
 - Course: FullStack Developer at Floripa Mais Tec
 <br>
