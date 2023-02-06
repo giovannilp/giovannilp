@@ -14,7 +14,7 @@ I'm Giovanni, a programming student from Brazil 🇧🇷.
 <br>
 
 💡 Core Competencies 💡
-- Tools: SQL, Python, Power BI
+- Tools: HTML, CSS, SQL, Python, Power BI
 - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Dashboard Design and Development
 <br>
 
